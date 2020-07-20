@@ -119,12 +119,3 @@ if (moves === 0) {
 }
 }
 startGame();
-
-// frameworks = ['Express', 'hapi', 'flatiron', 'MEAN.JS', 'locomotive'];
-// index = readlineSync.keyInSelect(frameworks, 'Which framework?');
-// console.log(frameworks[index] + ' is enabled.');
-
-// for( i = 0; i < players.lenght; i++) { 
-//   if (i < 5 === 0);
-//   console.log('players.case[stats]');
-// }
