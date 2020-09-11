@@ -13,16 +13,16 @@
 <!-- ABOUT THE PROJECT -->
 The wirefreame to a short Mortal Kombat game.
 
-## Built With
+### Built With
 
 - [readlineSync](https://www.npmjs.com/package/readline-sync)
 
-## Prerequisites
+### Prerequisites
 
 - npm
   `sh npm install npm@latest -g `
 
-## Installation
+### Installation
 
 1. `git clone` this repo
    `sh git clone https://github.com/your_username_/Project-Name.git `
